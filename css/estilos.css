@@ -1,9 +1,5 @@
 body{
     font-family: 'Titillium Web', sans-serif;
-    column-count:4;
-    column-gap: 3em;
-	column-rule: 1px solid #bbb;
-    column-width: 140px;
 }
 
 img {
