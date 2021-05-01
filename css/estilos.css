@@ -1,0 +1,30 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#logo{
+    width: 180;
+    height: 80;
+    background-color: f1f1f1;
+}
+
+#navbar-nav{
+    align-content: center;
+}
+
+#header{
+    background-image: url("../img/fondo-intro.jpg");
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin-bottom: 0px;
+    height: 772px;
+}
+
+#versiculo
+{
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 0px;
+}
