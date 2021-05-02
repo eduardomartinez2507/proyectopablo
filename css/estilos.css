@@ -60,5 +60,11 @@ img {
 }
 
 #instagram{
-    height: 550px;
+    background-color: #D27CF3;
+    height: 450px;
+}
+
+#facebook{
+    background-color: #258FEE;
+    height: 450px;
 }
